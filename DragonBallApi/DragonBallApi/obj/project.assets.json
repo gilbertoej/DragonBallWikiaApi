@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vinicius.pereira\\.nuget\\packages\\": {}
+    "C:\\Users\\luis.matos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS\\DragonBallWikia\\DragonBallApi\\DragonBallApi\\DragonBallApi.csproj",
+      "projectUniqueName": "C:\\Projetos Decola\\LMT\\DragonBallWikiaApi\\DragonBallApi\\DragonBallApi\\DragonBallApi.csproj",
       "projectName": "DragonBallApi",
-      "projectPath": "C:\\PROJETOS\\DragonBallWikia\\DragonBallApi\\DragonBallApi\\DragonBallApi.csproj",
-      "packagesPath": "C:\\Users\\vinicius.pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS\\DragonBallWikia\\DragonBallApi\\DragonBallApi\\obj\\",
+      "projectPath": "C:\\Projetos Decola\\LMT\\DragonBallWikiaApi\\DragonBallApi\\DragonBallApi\\DragonBallApi.csproj",
+      "packagesPath": "C:\\Users\\luis.matos\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos Decola\\LMT\\DragonBallWikiaApi\\DragonBallApi\\DragonBallApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vinicius.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luis.matos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -254,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
